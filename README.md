@@ -19,13 +19,13 @@
 ## 🛠️ 사전 준비
 실습을 시작하기 전, 아래 두 가지가 준비되어 있어야 합니다.
 
-GitHub 계정 생성
+1. GitHub 계정 생성
 
-Git 설치 및 개발 환경 세팅 (아래 중 본인에게 편한 방법을 선택하세요)
+2. Git 설치 및 개발 환경 세팅 (아래 중 본인에게 편한 방법을 선택하세요)
 
-터미널/CLI 환경: Git 공식 다운로드
+   - 터미널/CLI 환경: [Git 공식 다운로드](https://git-scm.com/)
 
-GUI 툴 환경: GitHub Desktop 다운로드 또는 VS Code (Visual Studio Code)
+   - GUI 툴 환경: [GitHub Desktop 다운로드](https://desktop.github.com/download/) 또는 [VS Code (Visual Studio Code)](https://code.visualstudio.com/)
 
 --- 
 
